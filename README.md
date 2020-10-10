@@ -17,7 +17,9 @@ Telegram bot was created within ODS Pet Projects (October 2020)
 ### Authors of the project
 
 Sergey Gavrenkov - Project idea, Telegram Bot, Data science (sergeygsa1@gmail.com)
+
 Olga Gavrenkova - Business analysis, product manager
+
 Vladimir Noskov - Web Site
 
 
